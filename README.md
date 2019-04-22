@@ -10,3 +10,6 @@ Segue descrição do desafio:
 
 > *Neste desafio você usará os dados no arquivo train.csv para criar um modelo que será utilizado para inferir a posição de jogo preferida dos jogadores (coluna preferred_pos) no arquivo test.csv. <br><br>Para tal, você deve criar um arquivo answer.csv com colunas ID e preferred_pos, onde os valores da coluna ID são as do arquivo test.csv e as da preferred_pos são a saída do seu modelo.*
 
+### Notebook
+
+https://nbviewer.jupyter.org/github/marcoayamada/fifa17/blob/master/Fifa.ipynb - [[Github](https://github.com/marcoayamada/fifa17/blob/master/Fifa.ipynb)]
